@@ -17,3 +17,6 @@ git reset to remove files have no changes you think.
 your history organized? How would branches help?
 - When want to make new features or new changes, but do not influent 
 master branch (major branch).
+
+* How do the diagrams help you visualize the branch structure?
+- It clearly determines what the master is and what the branches are.
