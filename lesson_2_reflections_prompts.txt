@@ -1,0 +1,14 @@
+* What happens when you initialize a repository? Why do you need to do
+it?
+- Hiden .git directory will appear. Intializing a repository to create
+a emty repository.
+
+* How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+- The staging area is intermediate area. It offers files you want to
+add for a commit.
+
+* How can you use the staging area to make sure you have one commit per 
+logical change?
+- Use git add to add files have logical change to the staging area. Use
+git reset to remove files have no changes you think.
