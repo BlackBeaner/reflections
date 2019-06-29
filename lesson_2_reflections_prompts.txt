@@ -12,3 +12,16 @@ add for a commit.
 logical change?
 - Use git add to add files have logical change to the staging area. Use
 git reset to remove files have no changes you think.
+
+* What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+- When want to make new features or new changes, but do not influent 
+master branch (major branch).
+
+* How do the diagrams help you visualize the branch structure?
+- It clearly determines what the master is and what the branches are.
+
+* What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+- The result files of each branch combined to one files. The represent
+make clearly illumination of the branch.
