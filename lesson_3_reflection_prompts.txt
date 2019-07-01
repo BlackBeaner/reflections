@@ -6,3 +6,8 @@ co-worker.
 * Why might you want to always pull changes manually rather than 
 having Git automatically stay up-to-date with your remote repository?
 - Maybe it's got some changes on GitHub I don't want to pull back. 
+
+* What is the benefit of having a copy of the last known state of the
+remote stored locally?
+- It give the option of choosing to merge co-worker's branch on github
+and local branch or not.
