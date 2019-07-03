@@ -11,3 +11,7 @@ having Git automatically stay up-to-date with your remote repository?
 remote stored locally?
 - It give the option of choosing to merge co-worker's branch on github
 and local branch or not.
+
+* How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
+- I'll use an other vcs or collaborate directly by email.
